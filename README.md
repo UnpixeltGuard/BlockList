@@ -1,7 +1,7 @@
 # BlockList
 
 In this project I am just merging 3 commonly used blocklists. It is intended to just be a small project to play around with Github workflows
-with minor use of solving a local problem I had with my AdGuard Home instance, which tended to freak out with too many filters set.
+with minor use of solving a local problem I had with my AdGuard Home instance, which tended to freak out with multiple seperate filters set.
 
 https://raw.githubusercontent.com/UnpixeltGuard/BlockList/main/multiBlock.txt
 
