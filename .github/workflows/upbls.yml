@@ -1,0 +1,20 @@
+name: Update Blocklists
+on: push
+jobs:
+  checkoutRepo:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: CheckoutRepo
+        uses: actions/checkout@main
+      - name: GetBlockLists
+        run: wget -O ./oisd.txt https://big.oisd.nl/ && wget -O ./adgt.txt https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt && wget -O ./hblock.txt https://hblock.molinero.dev/hosts_adblock.txt && sort oisd.txt adgt.txt
+      - name: MergeLists
+        run:  sort ./oisd.txt ./adgt.txt | uniq > ./aoisd.txt && sort ./aoisd.txt hblock.txt > ./multiBlock.txt
+      - name: CommitAndPush
+        run: |
+          git config --global user.name "UnpixeltGuard"
+          git config --global user.email "dennis@volkens.services"
+          
+          git add -A
+          git commit -m "Updated Lists"
+          git push
