@@ -5,5 +5,7 @@ with minor use of solving a local problem I had with my AdGuard Home instance, w
 
 # Sources
 https://big.oisd.nl/
+
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+
 https://hblock.molinero.dev/hosts_adblock.txt
