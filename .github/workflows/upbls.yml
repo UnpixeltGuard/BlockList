@@ -1,5 +1,7 @@
 name: Update Blocklists
-on: push
+on:
+  schedule:
+    - cron: "30 1 * * *"
 jobs:
   checkoutRepo:
     runs-on: ubuntu-latest
