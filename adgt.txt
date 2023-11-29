@@ -2,7 +2,7 @@
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! Last modified: 2023-11-28T00:19:29.143Z
+! Last modified: 2023-11-29T00:19:37.244Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -15,7 +15,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-28T00:02:23.630Z
+! Last modified: 2023-11-29T00:02:37.753Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -34,6 +34,16 @@
 !
 !
 !
+||ytvigqwx.com^
+||waunsgraphs.website^
+||homierceston.top^
+||pplgwic.com^
+||smigdxy.com^
+||rumimorigu.com^
+||thetreuntalle.com^
+||rlsspiuyx.com^
+||givaphofklu.com^
+||ohaijoub.com^
 ||keefeezo.net^
 ||phaipaun.net^
 ||fortatoneterrow.com^
@@ -1428,6 +1438,8 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d1i64ia3gj0ol1.cloudfront.net^
+||ads.digital.disneyadvertising.com^
 ||d2trpg4l6gqit0.cloudfront.net^
 ||dppaivsn6f9dy.cloudfront.net^
 ||dv663fc06d35i.cloudfront.net^
@@ -1802,6 +1814,7 @@ vkcdnservice.appspot.com^
 ||02aa19117f396e9.com^
 ||02ce917efd.com^
 ||0398067ebe.com^
+||03bdb617ed.com^
 ||03ed9035a0801f.com^
 ||04-f-bmf.com^
 ||041353e6dd.com^
@@ -2668,6 +2681,7 @@ vkcdnservice.appspot.com^
 ||9d36cf3402.com^
 ||9d407e803d.com^
 ||9dmnv9z0gtoh.com^
+||9e1852531b.com^
 ||9eb10b7a3d04a.com^
 ||9ee93ebe3a.com^
 ||9f50508b3c.com^
@@ -2746,6 +2760,7 @@ vkcdnservice.appspot.com^
 ||aabproxytests.top^
 ||aabproxytestsdomain.top^
 ||aabtestsproxydomain.top^
+||aac585e70c.com^
 ||aaf26c0e6a.com^
 ||aafdcq.com^
 ||aagm.link^
@@ -4628,6 +4643,7 @@ vkcdnservice.appspot.com^
 ||arheth.com^
 ||arhvtaonkvi.com^
 ||ariadnethreadmin.com^
+||arianatainos.com^
 ||ariapawners.space^
 ||aribut.com^
 ||aricianvrocht.com^
@@ -6330,6 +6346,7 @@ vkcdnservice.appspot.com^
 ||bolivarmaltol.website^
 ||bolofoak.net^
 ||boloingopulent.guru^
+||boloptrex.com^
 ||bolrookr.com^
 ||bolsek.ru^
 ||bolssc.com^
@@ -7570,6 +7587,7 @@ vkcdnservice.appspot.com^
 ||chocolatebushbunny.com^
 ||choconart.com^
 ||choicedorm.top^
+||choiceencounterjackson.com^
 ||chokedsmelt.com^
 ||chokedstarring.com^
 ||chokeweaknessheat.com^
@@ -8841,6 +8859,7 @@ vkcdnservice.appspot.com^
 ||dabletoverdid.space^
 ||daccroi.com^
 ||dacmaiss.com^
+||dacnmevunbtu.com^
 ||dadhuhram.com^
 ||dadisary.buzz^
 ||dadosgratis.club^
@@ -9173,6 +9192,7 @@ vkcdnservice.appspot.com^
 ||dejame.xyz^
 ||dejectionminus.com^
 ||dekkcewpqrep.com^
+||deksoolr.net^
 ||del-del-ete.com^
 ||delayeddisembroildisembroil.com^
 ||delbertgobans.com^
@@ -9699,6 +9719,7 @@ vkcdnservice.appspot.com^
 ||dkrxtdnlg.com^
 ||dkswptmwowowp.xyz^
 ||dl-rms.com^
+||dle-news.xyz^
 ||dledthebarrowb.com^
 ||dledthebarrowb.xyz^
 ||dlfvgndsdfsn.com^
@@ -11553,6 +11574,7 @@ vkcdnservice.appspot.com^
 ||fatalityplatinumthing.com^
 ||fatchilli.media^
 ||fatebbc.pro^
+||fathmurcurable.com^
 ||fathuntsgall.com^
 ||fatimacapos.com^
 ||fatlossremedies.com^
@@ -11914,6 +11936,7 @@ vkcdnservice.appspot.com^
 ||fjdpdcdndc.com^
 ||fjoyewwxrowqy.com^
 ||fjttbkoxer.xyz^
+||fkbkun.com^
 ||fkbwtoopwg.com^
 ||fkcvtiqbbgedb.com^
 ||fkexeijtqstuh.xyz^
@@ -12205,6 +12228,7 @@ vkcdnservice.appspot.com^
 ||forseisemelo.top^
 ||forsookjaeger.com^
 ||forsphealan.com^
+||forsungprosode.com^
 ||forsungstoolie.com^
 ||fortaillowon.com^
 ||fortaiwy.xyz^
@@ -13865,6 +13889,7 @@ vkcdnservice.appspot.com^
 ||heathertravelledpast.com^
 ||heatpracticallyease.com^
 ||heavenexceed.com^
+||heavenfull.com^
 ||heavengenerate.com^
 ||heavenly-landscape.com^
 ||heavenly-test.pro^
@@ -16076,6 +16101,7 @@ vkcdnservice.appspot.com^
 ||kazanwhoeveryowl.com^
 ||kbao7755.de^
 ||kbkewkjlqjqzr.top^
+||kbmaxbfpbfw.com^
 ||kbmcpatd.com^
 ||kbqebfcubeiaa.com^
 ||kbugxeslbjc8.com^
@@ -16262,6 +16288,7 @@ vkcdnservice.appspot.com^
 ||kjheamwouk.xyz^
 ||kjisypvbsanmlem.xyz^
 ||kjjbgclciiay.xyz^
+||kjklisbcab.com^
 ||kjotkqyzxe.com^
 ||kjqlmeaykennr.top^
 ||kjsvvnzcto.com^
@@ -17331,6 +17358,7 @@ vkcdnservice.appspot.com^
 ||lp247p.com^
 ||lpaqjnfmxftqfx.com^
 ||lpawakkabpho.com^
+||lpeqztx.com^
 ||lpetooopz.com^
 ||lpfmeavbcqbmy.com^
 ||lpfulinotaherere.info^
@@ -19340,6 +19368,7 @@ vkcdnservice.appspot.com^
 ||nlntrk.com^
 ||nlop.xyz^
 ||nlqqrsgr.com^
+||nlzxclfg.com^
 ||nmanateex.top^
 ||nmcdn.us^
 ||nmcpmjreuswnzs.com^
@@ -19451,6 +19480,7 @@ vkcdnservice.appspot.com^
 ||normugtog.com^
 ||northleaderpayback.com^
 ||northmay.com^
+||northwestdiddived.com^
 ||norymo.com^
 ||nosebleedlonerdays.com^
 ||nosedetriment.com^
@@ -19626,6 +19656,7 @@ vkcdnservice.appspot.com^
 ||nunciosmegasse.website^
 ||nunhoefey.com^
 ||nuniceberg.com^
+||nupdhyzetb.com^
 ||nupharbakongo.com^
 ||nuphizarrafw.com^
 ||nuqwe.com^
@@ -19688,6 +19719,7 @@ vkcdnservice.appspot.com^
 ||nzikpan.com^
 ||nzilixqaxocl.com^
 ||nzme-ads.co.nz^
+||nzuebfy.com^
 ||o-oo.ooo^
 ||o18.click^
 ||o18.link^
@@ -20622,6 +20654,7 @@ vkcdnservice.appspot.com^
 ||outelectrodean.com^
 ||outensootier.guru^
 ||outflednailbin.com^
+||outfortbogwort.guru^
 ||outgateniceish.com^
 ||outgivefaculae.store^
 ||outglowkeysets.guru^
@@ -20656,6 +20689,7 @@ vkcdnservice.appspot.com^
 ||outsrtfz.com^
 ||outstanding-tie.pro^
 ||outstandingspread.com^
+||outsudoo.net^
 ||outtaskhautein.guru^
 ||outtimburrtor.com^
 ||outtunova.com^
@@ -23025,6 +23059,7 @@ vkcdnservice.appspot.com^
 ||qqqqbdma.com^
 ||qqqwes.com^
 ||qquubyoknj.com^
+||qqvlbzlbqenbk.top^
 ||qqvthrkrseoog.com^
 ||qqvvkebebnbb.top^
 ||qqvvkebebnlq.top^
@@ -24727,6 +24762,7 @@ vkcdnservice.appspot.com^
 ||sbxitxnmfxzyf.com^
 ||sbxsdvwfabvx.com^
 ||sbyqtugtfe.com^
+||scabtauter.uno^
 ||scadsstar.com^
 ||scadstech.com^
 ||scaffoldoppresshaphazard.com^
@@ -25573,6 +25609,7 @@ vkcdnservice.appspot.com^
 ||slapexcitedly.com^
 ||slaqandsan.xyz^
 ||slaresolidi.com^
+||slartsighter.com^
 ||slartwomans.com^
 ||slashcynical.com^
 ||slashstar.net^
@@ -25853,6 +25890,7 @@ vkcdnservice.appspot.com^
 ||solvusserosal.com^
 ||somberalcyon.com^
 ||sombes.com^
+||sombrdybhwa.com^
 ||somecdn.bid^
 ||somehowluxuriousreader.com^
 ||someonei.buzz^
@@ -25925,6 +25963,7 @@ vkcdnservice.appspot.com^
 ||soupevents.com^
 ||soupteep.xyz^
 ||souptrip.com^
+||souraivo.xyz^
 ||sourcebloodless.com^
 ||sourishpuler.com^
 ||sourne.com^
@@ -26145,6 +26184,7 @@ vkcdnservice.appspot.com^
 ||squirtburpimplore.com^
 ||sqydhgubsy.com^
 ||sr7pv7n5x.com^
+||srabwfqwjoc.com^
 ||srcsmrtgs.com^
 ||sreamyourvids.online^
 ||sreamyourvids.space^
@@ -26706,6 +26746,7 @@ vkcdnservice.appspot.com^
 ||sutiletoroid.com^
 ||sutraf.com^
 ||suwotsoukry.com^
+||suwytid.com^
 ||suxobjjrokh.com^
 ||suxtryawma.com^
 ||suyextfn.com^
@@ -29301,6 +29342,7 @@ vkcdnservice.appspot.com^
 ||vfjmmodcgwxrr.com^
 ||vfjydbpywqwe.xyz^
 ||vfl81ea28aztw7y3.pro^
+||vflouksffoxmlnk.xyz^
 ||vftqmnqopdf.xyz^
 ||vfvdsati.com^
 ||vfyxjsclor.com^
@@ -30959,6 +31001,7 @@ vkcdnservice.appspot.com^
 ||xxaparfuel.xyz^
 ||xxccdshj.com^
 ||xxcpsqquegwmi.com^
+||xxdjxbvafjlw.com^
 ||xxe2.com^
 ||xxgqsbfwbmtqa.com^
 ||xxlargepop.com^
@@ -31091,6 +31134,7 @@ vkcdnservice.appspot.com^
 ||yfznypugeuunng.com^
 ||ygfytomneijjj.com^
 ||ygzkedoxwhqlzp.com^
+||yhbcii.com^
 ||yhgameofmu.xyz^
 ||yhhrtgltcfta.com^
 ||yhhthemostb.xyz^
@@ -32916,6 +32960,7 @@ vkcdnservice.appspot.com^
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
 ||1187531871.rsc.cdn77.org^
+||1194047269.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1540685764.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
@@ -34736,6 +34781,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||nakanohito.jp^
 ||analytics.fcgtalent.fi^
 ||gl-product-analytics.com^
 ||logging.pw.adn.cloud^
@@ -35915,11 +35961,6 @@ vkcdnservice.appspot.com^
 ||topiz.ru^
 ||hit.interia.pl^
 ||socialhoney.co^
-||bs.nakanohito.jp^
-||cs.nakanohito.jp^
-||uh.nakanohito.jp^
-||c.nakanohito.jp^
-||b16.nakanohito.jp^
 ||trk.olnl.net^
 ||ustat.info^
 ||ustat.pro^
@@ -38310,6 +38351,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||ddl.alma.iltalehti.fi^
 ||azq.zozo.jp^
 ||inbound-analytics.pixlee.com^
 ||rtm-tracking.zozo.jp^
@@ -42319,8 +42361,10 @@ inapps.appsflyersdk.com^
 ||absurdwater.com^
 ||acceptableauthority.com^
 ||achieverknee.com^
+||acidicstraw.com^
 ||acousticsapparel.com^
 ||acquireattention.com^
+||acridangle.com^
 ||acridtwist.com^
 ||actoramusement.com^
 ||actuallysnake.com^
@@ -42334,6 +42378,7 @@ inapps.appsflyersdk.com^
 ||advertisementafterthought.com^
 ||afraidlanguage.com^
 ||aftermathbrother.com^
+||agreeablearch.com^
 ||agreeablestew.com^
 ||aheadday.com^
 ||aheadmachine.com^
@@ -42378,6 +42423,7 @@ inapps.appsflyersdk.com^
 ||arithmeticadjustment.com^
 ||arizonapuzzle.com^
 ||aromamirror.com^
+||aspiringapples.com^
 ||aspiringattempt.com^
 ||astonishingfood.com^
 ||attractionapples.com^
@@ -42390,6 +42436,7 @@ inapps.appsflyersdk.com^
 ||automaticairplane.com^
 ||automaticflock.com^
 ||automaticside.com^
+||automaticturkey.com^
 ||availablerest.com^
 ||avalonalbum.com^
 ||averageactivity.com^
@@ -42403,10 +42450,12 @@ inapps.appsflyersdk.com^
 ||axiomaticanger.com^
 ||azuremystique.com^
 ||badgeboat.com^
+||baitbaseball.com^
 ||balancemailbox.com^
 ||balloonbelieve.com^
 ||balloonbit.com^
 ||balloontexture.com^
+||barbarousbase.com^
 ||barbarousnerve.com^
 ||baseballbone.com^
 ||basketballbelieve.com^
@@ -42526,6 +42575,7 @@ inapps.appsflyersdk.com^
 ||cdnral.com^
 ||ceciliavenus.com^
 ||celestialspectra.com^
+||chaireggnog.com^
 ||chairscrack.com^
 ||chairsdonkey.com^
 ||chalkoil.com^
@@ -42559,6 +42609,7 @@ inapps.appsflyersdk.com^
 ||cloisteredcurve.com^
 ||cloisteredhydrant.com^
 ||closedcows.com^
+||closefriction.com^
 ||cloudsdestruction.com^
 ||clovercabbage.com^
 ||clumsycar.com^
@@ -42617,6 +42668,7 @@ inapps.appsflyersdk.com^
 ||cratecamera.com^
 ||crawlclocks.com^
 ||crayoncompetition.com^
+||creatorcherry.com^
 ||creditcreature.com^
 ||crimsonmeadow.com^
 ||critictruck.com^
@@ -42761,6 +42813,7 @@ inapps.appsflyersdk.com^
 ||enormousearth.com^
 ||enormousfoot.com^
 ||entertainingeyes.com^
+||entertainskin.com^
 ||enthusiasticdad.com^
 ||enviousthread.com^
 ||equablekettle.com^
@@ -42776,6 +42829,7 @@ inapps.appsflyersdk.com^
 ||expansioneggnog.com^
 ||experienceeggs.com^
 ||extractobservation.com^
+||exuberantedge.com^
 ||exuberanteyes.com^
 ||exuberantsoda.com^
 ||exultantdrop.com^
@@ -42784,6 +42838,7 @@ inapps.appsflyersdk.com^
 ||fadedsnow.com^
 ||faintflag.com^
 ||fairfeeling.com^
+||fairiesbranch.com^
 ||falsefeet.com^
 ||falseframe.com^
 ||familiarrod.com^
@@ -42830,6 +42885,7 @@ inapps.appsflyersdk.com^
 ||foregoingfowl.com^
 ||foretellfifth.com^
 ||forgetfulflowers.com^
+||forgetfulsnail.com^
 ||fortunatemark.com^
 ||fourarithmetic.com^
 ||fourfork.com^
@@ -42866,6 +42922,7 @@ inapps.appsflyersdk.com^
 ||gammamaximum.com^
 ||gaudybeginner.com^
 ||generalprose.com^
+||gentlemoonlight.com^
 ||giddycoat.com^
 ||giftedglue.com^
 ||giftedthumb.com^
@@ -42884,6 +42941,7 @@ inapps.appsflyersdk.com^
 ||gorgeousedge.com^
 ||gorgeousground.com^
 ||gracefulsock.com^
+||grainmass.com^
 ||grandfatherguitar.com^
 ||grandiosefire.com^
 ||grandioseguide.com^
@@ -42907,24 +42965,29 @@ inapps.appsflyersdk.com^
 ||guiltlessbasketball.com^
 ||guitargrandmother.com^
 ||gulliblecamp.com^
+||gulliblegrip.com^
 ||gullibleguitar.com^
 ||h78xb.pw^
 ||habitualhumor.com^
+||hallowedinvention.com^
 ||haltingbadge.com^
 ||haltingdivision.com^
 ||haltinggold.com^
 ||hammerhearing.com^
 ||handleteeth.com^
+||handnorth.com^
 ||handsomehose.com^
 ||handsomeindustry.com^
 ||handsomelyhealth.com^
 ||handsomeyam.com^
 ||handyfield.com^
 ||handyfireman.com^
+||haplessland.com^
 ||happenhistory.com^
 ||harborcaption.com^
 ||harborcub.com^
 ||hardtofindmilk.com^
+||harmonywing.com^
 ||hatefulrequest.com^
 ||hauntlist.com^
 ||headydegree.com^
@@ -42954,6 +43017,7 @@ inapps.appsflyersdk.com^
 ||hoplaugh.com^
 ||hosenews.com^
 ||hospitablehall.com^
+||hospitablehat.com^
 ||hothydrant.com^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
@@ -42966,6 +43030,7 @@ inapps.appsflyersdk.com^
 ||i9w8p.pw^
 ||icebergindigo.com^
 ||illfatedsnail.com^
+||illinvention.com^
 ||immensehoney.com^
 ||imminentshake.com^
 ||imperfectinstrument.com^
@@ -43035,6 +43100,7 @@ inapps.appsflyersdk.com^
 ||levelbehavior.com^
 ||liftedknowledge.com^
 ||lightcushion.com^
+||lightenafterthought.com^
 ||literatelight.com^
 ||livelumber.com^
 ||livelylaugh.com^
@@ -43088,8 +43154,10 @@ inapps.appsflyersdk.com^
 ||mediatescarf.com^
 ||medusasailor.com^
 ||mellowbike.com^
+||mellowmailbox.com^
 ||melodicminute.com^
 ||meltmilk.com^
+||memorizeline.com^
 ||memorizeneck.com^
 ||memorycobweb.com^
 ||mentorsticks.com^
@@ -43123,6 +43191,7 @@ inapps.appsflyersdk.com^
 ||mundanepollution.com^
 ||murkymeeting.com^
 ||muteknife.com^
+||mutemailbox.com^
 ||muterange.com^
 ||mysteriousmonth.com^
 ||nappyattack.com^
@@ -43409,6 +43478,7 @@ inapps.appsflyersdk.com^
 ||scaredsong.com^
 ||scaredstory.com^
 ||scaredswing.com^
+||scarefowl.com^
 ||scarfsmash.com^
 ||scarfthought.com^
 ||scatteredheat.com^
@@ -43443,6 +43513,7 @@ inapps.appsflyersdk.com^
 ||sensorsmile.com^
 ||separateshow.com^
 ||separatesilver.com^
+||separatesort.com^
 ||seraphichorizon.com^
 ||serendipityecho.com^
 ||serenecascade.com^
@@ -43457,6 +43528,7 @@ inapps.appsflyersdk.com^
 ||shakytaste.com^
 ||shallowblade.com^
 ||shallowsmile.com^
+||shapecomb.com^
 ||sharppatch.com^
 ||sheltercellar.com^
 ||shesubscriptions.com^
@@ -43570,6 +43642,7 @@ inapps.appsflyersdk.com^
 ||spottedsnow.com^
 ||springaftermath.com^
 ||springsister.com^
+||springsnails.com^
 ||spuriousbase.com^
 ||spurioussquirrel.com^
 ||spurioussteam.com^
@@ -43639,6 +43712,7 @@ inapps.appsflyersdk.com^
 ||stupendoussnow.com^
 ||stupidscene.com^
 ||stupidsnake.com^
+||sturdysnail.com^
 ||subsequentsand.com^
 ||subsequentstew.com^
 ||subsequentswim.com^
@@ -43677,6 +43751,7 @@ inapps.appsflyersdk.com^
 ||talltouch.com^
 ||tangibleteam.com^
 ||tangyamount.com^
+||tangycover.com^
 ||tarttendency.com^
 ||tastefulsongs.com^
 ||tastelesstoes.com^
@@ -43776,6 +43851,7 @@ inapps.appsflyersdk.com^
 ||uncoveredexpert.com^
 ||understoodocean.com^
 ||unequalbrake.com^
+||unequaltrail.com^
 ||unevenstring.com^
 ||unifyaddition.com^
 ||uninterestedquarter.com^
@@ -43785,6 +43861,7 @@ inapps.appsflyersdk.com^
 ||unusedstone.com^
 ||unusualtitle.com^
 ||unwieldyhealth.com^
+||unwieldyimpulse.com^
 ||unwieldyplastic.com^
 ||unwrittenspot.com^
 ||uppitytime.com^
@@ -43826,6 +43903,7 @@ inapps.appsflyersdk.com^
 ||wellgroomedbat.com^
 ||wellgroomedhydrant.com^
 ||wellmadefrog.com^
+||whimsicalgrove.com^
 ||whineattempt.com^
 ||whirlwealth.com^
 ||whiskyqueue.com^
@@ -45674,6 +45752,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||079301eaff0975107716716fd1cb0dcd.com^
 ||gimnsr.com^
 ||wensonk.com^
 ||tailstories.biz^
@@ -49845,6 +49924,7 @@ inapps.appsflyersdk.com^
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
 !
 !
+||compass-fit.jp^
 ||gs-ad.jp^
 ||afi-thor.com^
 ||afbhub.net^
@@ -50933,8 +51013,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-11-22 14:03:17 CET
-# entries:        1063
+# last updated:   2023-11-28 13:35:36 CET
+# entries:        1064
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/lassekongo83/Frellwits-filter-lists/
 ||1terms.com^
@@ -51846,8 +51926,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 27 Nov 2023 15:23 UTC+7
-! Version: 2311271523
+! Last modified: 28 Nov 2023 10:57 UTC+7
+! Version: 2311281057
 ! Blocked: 844 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -52652,6 +52732,7 @@ inapps.appsflyersdk.com^
 ||1kfnsra.com^
 ||1kqfzwd.com^
 ||1mxabnt.com^
+||1vudktp.com^
 ||1weorpu.com^
 ||20szp.com^
 ||24w0p.com^
@@ -52681,7 +52762,9 @@ inapps.appsflyersdk.com^
 ||a4bj6.xyz^
 ||aaknmt.icu^
 ||actrqdr.cn^
+||aflsj.com^
 ||agossuoeach.com^
+||ahgfdhp.xyz^
 ||ahpphkc.xyz^
 ||aidmat.icu^
 ||aiiaqw.xyz^
@@ -52739,6 +52822,7 @@ inapps.appsflyersdk.com^
 ||cadizer.com^
 ||cammak.xyz^
 ||caonme.xyz^
+||ccwxma.xyz^
 ||cdsa2.icu^
 ||ceiuip.icu^
 ||cgbswl.icu^
@@ -52757,12 +52841,14 @@ inapps.appsflyersdk.com^
 ||corcztpc.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
+||criknudsr.com^
 ||cry2h.cn^
 ||csmfee.xyz^
 ||cthbini.xyz^
 ||cuvtnzv.cn^
 ||cxpjrqa.cn^
 ||cy5kr.fun^
+||danun.cn^
 ||dcdglb.xyz^
 ||ddkh59.com^
 ||ddvoht.xyz^
@@ -52788,9 +52874,11 @@ inapps.appsflyersdk.com^
 ||durynslg.xyz^
 ||dvclhmt.cn^
 ||dvnqhdmze.xyz^
+||dwadwere.xyz^
 ||dwerzv.xyz^
 ||dwq661.biz^
 ||dzdxnbc.xyz^
+||e3inu.space^
 ||ebmlsvw.cn^
 ||eejwvwoo.xyz^
 ||egadfe.xyz^
@@ -52799,6 +52887,7 @@ inapps.appsflyersdk.com^
 ||ekzzed.icu^
 ||elas666.pics^
 ||elemea.xyz^
+||elprput.xyz^
 ||eqcwpeo.cn^
 ||eraygc.xyz^
 ||erutxdk.cn^
@@ -52823,6 +52912,7 @@ inapps.appsflyersdk.com^
 ||fgcxdr.cn^
 ||fgttbz.xyz^
 ||fguhyg.cn^
+||fifqjp.xyz^
 ||fkjsjwbs.xyz^
 ||fluhmmr.cn^
 ||fmvbyji.cn^
@@ -52916,6 +53006,7 @@ inapps.appsflyersdk.com^
 ||holdntlc.com^
 ||hooe.top^
 ||hrtinqj.cn^
+||hshmbx.xyz^
 ||huhwllvk.xyz^
 ||hunklm.com^
 ||huxifena.cn^
@@ -52965,9 +53056,11 @@ inapps.appsflyersdk.com^
 ||jppxnhe.xyz^
 ||jqtkzuco.xyz^
 ||juhooqv.cn^
+||julefhgu.xyz^
 ||juljrd.xyz^
 ||jupeicha.cn^
 ||jvjmjt.xyz^
+||jwjzf.online^
 ||jwxwnr.xyz^
 ||k6syi.space^
 ||kaaqgf.icu^
@@ -53029,6 +53122,7 @@ inapps.appsflyersdk.com^
 ||mcds7.icu^
 ||mcds9.icu^
 ||meilunsc.com^
+||merywf.xyz^
 ||mfnfylx.xyz^
 ||mggzah.icu^
 ||mhglue.xyz^
@@ -53099,6 +53193,7 @@ inapps.appsflyersdk.com^
 ||pidurrmu.xyz^
 ||pirubcfy.xyz^
 ||pobrpr.xyz^
+||poiwer.com^
 ||ppenid.xyz^
 ||pptclb.xyz^
 ||ppvpmrt.xyz^
@@ -53106,6 +53201,7 @@ inapps.appsflyersdk.com^
 ||prhphla.xyz^
 ||psroyx.icu^
 ||ptdofj.xyz^
+||pugxfvm.cn^
 ||pvnzrr.xyz^
 ||pxxnejx.xyz^
 ||pzcogpj.icu^
@@ -53115,14 +53211,18 @@ inapps.appsflyersdk.com^
 ||qbhjokk.xyz^
 ||qboywc.xyz^
 ||qbswezw.cn^
+||qdtjjxr.xyz^
 ||qimacdg.cn^
 ||qinjgh.icu^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
 ||qoqoangry.com^
+||qoswfds.cn^
 ||qqvlsr.icu^
+||qqyjis.xyz^
 ||qtq632.com^
 ||quqtone.cn^
+||quwwa.top^
 ||quzmtpxw.xyz^
 ||quzpvtt.xyz^
 ||qvftejz.cn^
@@ -53132,6 +53232,7 @@ inapps.appsflyersdk.com^
 ||qyoqeq.xyz^
 ||r9ffi.fun^
 ||ran2.top^
+||raolmsc.com^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
 ||rett.top^
@@ -53158,6 +53259,7 @@ inapps.appsflyersdk.com^
 ||sglahyea.xyz^
 ||shipostrich.com^
 ||shx11.xyz^
+||skdunkig.xyz^
 ||slkdfg.com^
 ||sllo.top^
 ||smlpcz.icu^
@@ -53189,6 +53291,7 @@ inapps.appsflyersdk.com^
 ||tqrznqs.cn^
 ||trdmtx.xyz^
 ||trrmkzesvyqrary.com^
+||ttgjwxp.icu^
 ||tuvixr.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
@@ -53285,6 +53388,7 @@ inapps.appsflyersdk.com^
 ||xxfphsg.cn^
 ||xxkswdf.icu^
 ||xxlfteg.xyz^
+||xydslz.xyz^
 ||xzvahr.xyz^
 ||y341i.xyz^
 ||yasma.top^
@@ -53299,7 +53403,9 @@ inapps.appsflyersdk.com^
 ||yjbdyjnctgj.top^
 ||yjxzvqy.xyz^
 ||ykujch.icu^
+||ymniqh.icu^
 ||ynulcpt.cn^
+||yongzhen8.com^
 ||ytezym.xyz^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
@@ -53321,6 +53427,7 @@ inapps.appsflyersdk.com^
 ||zmfcnlvu.xyz^
 ||zndvfrl.xyz^
 ||znwzcmd.cn^
+||zpvfsrb.xyz^
 ||zpvuugw.cn^
 ||zuugfj.cn^
 ||zys13.top^
@@ -53328,26 +53435,13 @@ inapps.appsflyersdk.com^
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
-||qoswfds.cn^
-||elprput.xyz^
-||e3inu.space^
-||qqyjis.xyz^
-||ymniqh.icu^
-||julefhgu.xyz^
-||xydslz.xyz^
-||dwadwere.xyz^
-||merywf.xyz^
-||ahgfdhp.xyz^
-||danun.cn^
-||poiwer.com^
-||ttgjwxp.icu^
-||skdunkig.xyz^
-||pugxfvm.cn^
-||fifqjp.xyz^
-||hshmbx.xyz^
-||jwjzf.online^
-||qdtjjxr.xyz^
-||ccwxma.xyz^
+||cvtbdap.xyz^
+||roio.top^
+||njreka.xyz^
+||ax7fv.space^
+||bavkvoks.xyz^
+||oouiqi.xyz^
+||fxkfhbn.xyz^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
